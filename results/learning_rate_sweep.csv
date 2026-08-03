@@ -1,0 +1,46 @@
+learning_rate,architecture,seed,test_accuracy,collapsed,seconds
+0.01,"1 hidden layer, 7 units",1,82.9,no,9.4
+0.01,"1 hidden layer, 7 units",2,81.45,no,7.6
+0.01,"1 hidden layer, 7 units",3,82.0,no,6.6
+0.01,3 hidden layers,1,79.6,no,15.7
+0.01,3 hidden layers,2,82.4,no,11.1
+0.01,3 hidden layers,3,79.85,no,13.9
+0.01,4 hidden layers,1,80.05,no,13.4
+0.01,4 hidden layers,2,81.35,no,13.2
+0.01,4 hidden layers,3,80.65,no,11.0
+0.05,"1 hidden layer, 7 units",1,83.0,no,6.6
+0.05,"1 hidden layer, 7 units",2,83.05,no,7.1
+0.05,"1 hidden layer, 7 units",3,84.1,no,7.5
+0.05,3 hidden layers,1,83.25,no,11.5
+0.05,3 hidden layers,2,82.2,no,11.3
+0.05,3 hidden layers,3,83.35,no,11.8
+0.05,4 hidden layers,1,83.75,no,10.9
+0.05,4 hidden layers,2,82.7,no,11.6
+0.05,4 hidden layers,3,83.75,no,13.1
+0.1,"1 hidden layer, 7 units",1,82.95,no,7.3
+0.1,"1 hidden layer, 7 units",2,82.15,no,7.2
+0.1,"1 hidden layer, 7 units",3,83.3,no,8.3
+0.1,3 hidden layers,1,82.15,no,11.1
+0.1,3 hidden layers,2,82.6,no,11.4
+0.1,3 hidden layers,3,83.75,no,12.1
+0.1,4 hidden layers,1,82.95,no,12.4
+0.1,4 hidden layers,2,82.9,no,12.9
+0.1,4 hidden layers,3,81.6,no,11.6
+0.25,"1 hidden layer, 7 units",1,83.6,no,7.1
+0.25,"1 hidden layer, 7 units",2,84.35,no,7.5
+0.25,"1 hidden layer, 7 units",3,83.3,no,6.7
+0.25,3 hidden layers,1,82.2,no,11.2
+0.25,3 hidden layers,2,83.85,no,12.1
+0.25,3 hidden layers,3,80.2,no,11.9
+0.25,4 hidden layers,1,50.0,yes,10.3
+0.25,4 hidden layers,2,83.85,no,11.4
+0.25,4 hidden layers,3,82.25,no,11.1
+0.5,"1 hidden layer, 7 units",1,82.6,no,7.0
+0.5,"1 hidden layer, 7 units",2,81.75,no,6.1
+0.5,"1 hidden layer, 7 units",3,77.6,no,6.3
+0.5,3 hidden layers,1,83.7,no,10.7
+0.5,3 hidden layers,2,80.1,no,12.2
+0.5,3 hidden layers,3,81.95,no,11.7
+0.5,4 hidden layers,1,83.9,no,12.6
+0.5,4 hidden layers,2,84.3,no,13.9
+0.5,4 hidden layers,3,84.85,no,10.8

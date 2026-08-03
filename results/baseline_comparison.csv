@@ -1,0 +1,6 @@
+architecture,mean_difference,standard_error,ci_low,ci_high,significant
+"1 hidden layer, 7 units",-0.04,0.076,-0.252,0.172,no
+"1 hidden layer, 20 units",-0.01,0.154,-0.436,0.416,no
+2 hidden layers,0.29,0.119,-0.04,0.62,no
+3 hidden layers,0.29,0.116,-0.031,0.611,no
+4 hidden layers,0.07,0.237,-0.589,0.729,no
